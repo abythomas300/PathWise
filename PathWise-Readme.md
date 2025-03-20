@@ -80,22 +80,18 @@ Stable Internet connection
 Software Requirements:-
 OS : Windows 8 or above / Linux
 IDE: VS Code
-FrontEnd: React.js
-BackEnd : Node.js with Express.js
-Database: MongoDB
-ML: TensorFlow
-Hosting: AWS
+FrontEnd: ?
+BackEnd : ?
+Database: ?
 Version Control: Git, GitHub
 
 
 - - - - - - - - - MODULE DESCRIPTION - - - - - - - - - 
 Admin:-
 1. Make sure ML models generate accurate learning plans.
-2. Filter out low quality resources.
-3. Add high quality resources.
-4. Moderate forum - Prevent Spam, Resolve Disputes, Establish productive communication. 
-5. Manage notifications.
-6. Ensure the smooth running of the platform.
+2. Moderate forum - Prevent Spam, Resolve Disputes, Establish productive communication. 
+3. Manage notifications.
+4. Ensure the smooth running of the platform.
 
 User:-
 1. Resister or Login
@@ -106,6 +102,13 @@ User:-
 6. Chat in forum
 7. Change learning plan by adjusting prompt
 
+
+- - - - - - - - - FUTURE ENHANCEMENTS  - - - - - - - - - 
+1. AI-powered content summarization.
+2. More interactive learning modes (quizzes, live discussions).
+3. Improved ML models for better path recommendations.
+4. Individual users should be able to send friend requests and chat with other learners personally.
+5. 1 day ban system if a user do offensive chat in group.
 
 
 - - - - - - - - - REFERENCE PAPERS - - - - - - - - - 
